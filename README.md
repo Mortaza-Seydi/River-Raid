@@ -13,4 +13,5 @@ If You Want To Run It On Windows, Use "PDCurses", "SDL" And "SDL_mixer" (Windows
 With Full Screen Command Prompt (The Only Way To Run).
 
 Compile (Linux)  :  gcc RiverRaid.c -o RiverRaid -lncurses -lSDL -lSDL_mixer
+
 Run (Linux)  :  ./RiverRaid
