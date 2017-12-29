@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* Structs */
+/* Structs That Used In Game */
 
 typedef struct
 {
