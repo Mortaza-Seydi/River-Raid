@@ -1,8 +1,11 @@
 # River-Raid
 Musical And Graphical River Raid Game
 
+
 Project Name   :   River Raid
+
 Code Version   :   1.0
+
 Written by   :   Mortaza Seydi - Zanjan University, IRAN - Fall 2017
 
 Note : This Program is Only Executable On Linux With "Ncurses", "SDL" And "SDL_mixer" Library.
