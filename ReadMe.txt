@@ -15,7 +15,7 @@
 *   Compile (Linux)  :  gcc RiverRaid.c -o RiverRaid -lncurses -lSDL -lSDL_mixer
 *       Run (Linux)  :  ./RiverRaid
 *
-*   Source Code Available on  :	github.com/Mortaza-Seydi
+*   Source Code Available on  :	github.com/Mortaza-Seydi/River-Raid
 *
 *************************************************************************************************************
 */
