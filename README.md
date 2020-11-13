@@ -8,3 +8,5 @@ Musical And Graphical River Raid Game
 2. ```gcc -o output RiverRaid.c `pkg-config --cflags sdl2 SDL2_mixer pkg-config --libs sdl2 SDL2_mixer` -lncurses``` 
 3. ```./output```
 
+## Preview:
+![alt text](/preview.jpg)
