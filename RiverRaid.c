@@ -28,8 +28,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include <SDL/SDL.h>          /* for Sounds */
-#include <SDL/SDL_mixer.h>    /* for Sounds */
+#include <SDL2/SDL.h>          /* for Sounds */
+#include <SDL2/SDL_mixer.h>    /* for Sounds */
 
 /*  Functoins  */
 
